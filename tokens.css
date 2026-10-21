@@ -1,0 +1,38 @@
+/* Figma s1RP0ErLN8DUaUNP7MVMXj: visible 02 Palette, 05 Component Library. */
+:root{
+  --kc-neutral-0:#FBFAF7;
+  --kc-neutral-0-rgb:251,250,247;
+  --kc-neutral-50:#FBFAF7;
+  --kc-neutral-50-rgb:251,250,247;
+  --kc-neutral-100:#F7F5EF;
+  --kc-neutral-100-rgb:247,245,239;
+  --kc-neutral-200:#E8E7DF;
+  --kc-neutral-200-rgb:232,231,223;
+  --kc-neutral-300:#CBD2C9;
+  --kc-neutral-300-rgb:203,210,201;
+  --kc-neutral-700:#48534A;
+  --kc-neutral-700-rgb:72,83,74;
+  --kc-neutral-900:#26332F;
+  --kc-neutral-900-rgb:38,51,47;
+  --kc-green-50:#E7EBE4;
+  --kc-green-50-rgb:231,235,228;
+  --kc-green-100:#D6DFD6;
+  --kc-green-100-rgb:214,223,214;
+  --kc-green-500:#416653;
+  --kc-green-500-rgb:65,102,83;
+  --kc-green-700:#2E4C3B;
+  --kc-green-700-rgb:46,76,59;
+  --kc-amber-100:#FFF0D9;
+  --kc-amber-100-rgb:255,240,217;
+  --kc-amber-600:#935B16;
+  --kc-amber-600-rgb:147,91,22;
+  --kc-red-100:#FCEAE6;
+  --kc-red-100-rgb:252,234,230;
+  --kc-red-700:#A52D29;
+  --kc-red-700-rgb:165,45,41;
+  --kc-blue-700:#225E91;
+  --kc-blue-700-rgb:34,94,145;
+  --kc-radius-control:8px;
+  --kc-radius-card:12px;
+  --kc-target:48px;
+}
