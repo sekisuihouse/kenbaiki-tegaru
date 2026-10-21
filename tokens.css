@@ -1,4 +1,4 @@
-/* Figma s1RP0ErLN8DUaUNP7MVMXj: visible 02 Palette, 05 Component Library. */
+/* Figma s1RP0ErLN8DUaUNP7MVMXj: nodes 6:89, 6:150, 7:5–7:41, 8:2, 8:37, 8:53, 12:3. */
 :root{
   --kc-neutral-0:#FBFAF7;
   --kc-neutral-0-rgb:251,250,247;
@@ -10,6 +10,9 @@
   --kc-neutral-200-rgb:232,231,223;
   --kc-neutral-300:#CBD2C9;
   --kc-neutral-300-rgb:203,210,201;
+  --kc-neutral-500:#616D62;
+  --kc-neutral-500-rgb:97,109,98;
+  --kc-border-strong:#77867A;
   --kc-neutral-700:#48534A;
   --kc-neutral-700-rgb:72,83,74;
   --kc-neutral-900:#26332F;
@@ -20,6 +23,8 @@
   --kc-green-100-rgb:214,223,214;
   --kc-green-500:#416653;
   --kc-green-500-rgb:65,102,83;
+  --kc-green-600:#365A47;
+  --kc-green-600-rgb:54,90,71;
   --kc-green-700:#2E4C3B;
   --kc-green-700-rgb:46,76,59;
   --kc-amber-100:#FFF0D9;
@@ -30,8 +35,23 @@
   --kc-red-100-rgb:252,234,230;
   --kc-red-700:#A52D29;
   --kc-red-700-rgb:165,45,41;
+  --kc-blue-100:#E7F1FA;
+  --kc-olive:#5D674A;
+  --kc-earth:#866747;
   --kc-blue-700:#225E91;
   --kc-blue-700-rgb:34,94,145;
+  --kc-font:'Noto Sans JP',sans-serif;
+  --kc-display:48px; --kc-display-line:64px;
+  --kc-h1:36px; --kc-h1-line:52px;
+  --kc-h2:28px; --kc-h2-line:40px;
+  --kc-h3:22px; --kc-h3-line:34px;
+  --kc-body-l:18px; --kc-body-l-line:30px;
+  --kc-body:16px; --kc-body-line:26px;
+  --kc-body-s:14px; --kc-body-s-line:22px;
+  --kc-caption:12px; --kc-caption-line:20px;
+  --kc-space-1:4px; --kc-space-2:8px; --kc-space-3:12px;
+  --kc-space-4:16px; --kc-space-6:24px; --kc-space-8:32px;
+  --kc-space-12:48px; --kc-space-16:64px;
   --kc-radius-control:8px;
   --kc-radius-card:12px;
   --kc-target:48px;
