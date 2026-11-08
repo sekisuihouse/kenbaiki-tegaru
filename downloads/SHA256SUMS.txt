@@ -1,3 +1,4 @@
-00a8fa530684d375e7adfa52296fca886b4f3dd2cf01192d89654126966d54fd  tegaru-rockon-demo-0.6.1.apk
-00a8fa530684d375e7adfa52296fca886b4f3dd2cf01192d89654126966d54fd  tegaru-rockon-demo-0.5.0.apk
 480633a86aaf56c78f4bf24117c53b127f204740bd89e04f75ee85690a4b0de1  rockon-usb-samples.zip
+73bea7334ef9d2d157be3d3419b8890ed9ef6c6acb55a4c8d28d5db2721df3fa  tegaru-rockon-demo-0.5.0.apk
+73bea7334ef9d2d157be3d3419b8890ed9ef6c6acb55a4c8d28d5db2721df3fa  tegaru-rockon-demo-0.6.1.apk
+73bea7334ef9d2d157be3d3419b8890ed9ef6c6acb55a4c8d28d5db2721df3fa  tegaru-rockon-demo-0.6.2.apk
