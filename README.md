@@ -1,13 +1,9 @@
-# 券売機 てがる
+# 券売機 てがる PWA 0.6.0
 
-券売機のメニューをスマートフォンで編集する PWA の公開サイトです。現在は開発プレビューです。実物のスマホ USB・券売機での受入試験、ストア署名・審査は未実施です。
+VT-S20の設定・売上をESP32-S3経由でWi-Fi送受信するPWAです。
 
-- [アプリを開く](https://sekisuihouse.github.io/kenbaiki-tegaru/)
-- [インストール・USB の使い方](https://sekisuihouse.github.io/kenbaiki-tegaru/welcome.html)
-- [プライバシー](https://sekisuihouse.github.io/kenbaiki-tegaru/privacy.html)
+[アプリを開く](https://sekisuihouse.github.io/kenbaiki-tegaru/)
 
-このリポジトリには検査済みの Web 配布物だけを置いています。店舗の設定原本・売上・写真・取扱説明書、開発ソース、ネイティブプロジェクト、秘密情報は含めません。練習用データは架空です。練習データを実際の券売機へ取り込まないでください。
+Chromeのローカルネットワークへのアクセス許可を利用します。スマホをESP32のWi-Fiへ接続し、メニュー取得・適用の「Wi-Fi」から操作します。券売機への取り込みは従来リモコンの91で行い、現地で別途確認してください。
 
-GitHub Pages の Source を GitHub Actions に設定すると、main への push または Deploy static PWA の手動実行で既成のファイルを配信します。Node.js/npm やビルド操作は不要です。ワークフロー成功と実 URL の表示を確認するまでは、公開完了とは扱いません。
-
-第三者ライセンスは [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt) を参照してください。
+公開物に店舗の設定原本・売上・接続キーは含めません。`downloads` は以前から公開していた架空サンプルとAndroid USBデモ0.5.0です。Wi-Fi機能はPWA0.6.0で利用してください。

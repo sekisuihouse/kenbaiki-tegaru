@@ -1,0 +1,2 @@
+480633a86aaf56c78f4bf24117c53b127f204740bd89e04f75ee85690a4b0de1  rockon-usb-samples.zip
+c6ae86ab16750fb05adef2eb86cfe3b6257a2909cd3b18555573dcb6000ac36e  tegaru-rockon-demo-0.5.0.apk
